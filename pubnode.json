@@ -1,6 +1,9 @@
 {
     "name": "Pubnode blog starter kit",
     "favicon": "assets/images/favicon.png",
+    "templates": {
+        "post": "templates/post"
+    },
     "pages": [
         "getting-started"
     ]
